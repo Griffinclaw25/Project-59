@@ -1,0 +1,66 @@
+body {
+    
+    background: linear-gradient(darksalmon 0%, bisque 100%);
+    text-align: center;
+    
+    
+    
+}
+
+h1 {
+    
+    font-size: 100px;
+   
+}
+
+p {
+    
+    font-size: 40px;
+}
+
+h2{
+    
+    font-size: 70px;
+}
+
+h3 {
+    
+    font-size: 50px;
+    background-color: beige;
+    padding-top: 1px;
+    padding-bottom: 3px;
+}
+
+img {
+    
+    height: 400px;
+    width: 400px;
+   border-radius: 10px;
+}
+
+
+.line {
+    
+    height: 10px;
+    background-color: black;
+    width: 150px;
+    margin: 8px auto;
+}
+
+.header {
+    background-color: beige;
+}
+
+.article {
+    
+    font-size: 25px;
+}
+
+h4 {
+    
+    background-color: beige;
+    font-size: 40px;
+}
+
+
+
